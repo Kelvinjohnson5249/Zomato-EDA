@@ -1,0 +1,39 @@
+# Jupyter Notebook temporary checkpoints
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# VS Code config
+.vscode/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+# Logs and outputs
+*.log
+
+# Data files (optional if large or sensitive)
+*.csv
+*.xlsx
+*.json
+
+# GitHub files
+*.DS_Store
+
+# OS generated
+desktop.ini
+
+# IDE related
+.idea/
+*.sublime-project
+*.sublime-workspace
